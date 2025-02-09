@@ -13,6 +13,6 @@
 ### Contact me
 <p align="center">
   <a href="https://discord.gg/Hb8dp4Dq5b">
-    <img height=200 src="https://lanyard.cnrad.dev/api/980421433081593886" />
+    <img height=200 src="https://lanyard.cnrad.dev/api/980421433081593886?borderRadius=10px&theme=dark&idleMessage=%20%E2%86%AA%20https%3A%2F%2Fguns.lol%2F777._%20%E2%86%AA%20https%3A%2F%2Fdiscord.gg%2Fnightfall" />
   </a>
 </p>
